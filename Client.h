@@ -6,10 +6,8 @@
 #include <boost/asio/connect.hpp>
 #include <boost/asio/ip/tcp.hpp>
 #include <string>
-//const static std::string MAIN_API = "ip-api.com";
-//const static std::string API_ARG = "/json/";
 
-const static std::string TEST_API_SH = "https://api.bitget.com";
+const static std::string TEST_API_SH = "api.bitget.com";
 const static std::string TEST_API = "/api/v2/spot/market/tickers?symbol=BTCUSDT";
 
 namespace http = boost::beast::http;
