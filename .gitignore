@@ -365,3 +365,5 @@ FodyWeavers.xsd
 /build
 /arbitrage_cplus.vcxproj
 /packages.config
+/arbitrage_cplus.vcxproj.filters
+/arbitrage_cplus.sln
