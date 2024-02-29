@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/build/CMakeFiles/3.28.0-msvc1/CompilerIdC/CMakeCCompilerId.c
+/build
+/arbitrage_cplus.vcxproj
+/packages.config
